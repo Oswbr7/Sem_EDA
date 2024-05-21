@@ -1,0 +1,4 @@
+1	Luis	Informatica
+2	Javier	Computacion
+3	Ruben	Filosofia
+4	Priscila	Bibliotecologia y Gestion del Conocimiento
